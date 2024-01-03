@@ -1,0 +1,41 @@
+footer {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+footer .logo {
+    width: 185px;
+}
+
+footer .social {
+    margin-top: 20px;
+}
+
+footer .social a {
+    margin-right: 20px;
+}
+
+footer .list .list-title {
+    font-size: 21px;
+    color: #2F2F2F;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+footer .list a {
+    display: block;
+    color: #2F2F2F;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+footer .copyright {
+    color: #2F2F2F;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 95px;
+    margin-bottom: 10px;
+}

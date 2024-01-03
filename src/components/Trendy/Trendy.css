@@ -1,0 +1,79 @@
+.trendy-card {
+  width: 100%;
+  max-width: 390px;
+  margin: 0 auto;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+}
+
+.trendy-card img {
+  width: 100%;
+  max-width: 390px;
+  border-radius: 10px 10px 0 0;
+}
+
+.trendy-card .flag {
+  position: relative;
+  margin-left: 20px;
+  border-radius: 50%;
+  border: 5px solid #ffffff;
+  margin-top: -37px;
+  width: fit-content;
+  height: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2;
+  background-color: #ffffff;
+  box-shadow: 6px 14px 30px rgba(0, 0, 0, 0.15);
+}
+
+.trendy-card .body {
+  padding: 10px 20px;
+}
+
+.trendy-card .body .info {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 17px;
+}
+
+.trendy-card .body .info .wrapper {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+  color: #7d7d7d;
+  font-size: 16px;
+}
+
+.trendy-card .body .title-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.trendy-card .body .title-wrapper p {
+  color: #2f2f2f;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.trendy-card .body .rate svg {
+    margin-right: 3px;
+}
+
+.trendy-card .body .subtitle {
+  color: #5e6282;
+  font-size: 14px;
+}
+
+.trendy-card .body .btn-orange {
+    margin-top: 25px;
+    margin-bottom: 10px;
+    width: 128px;
+    height: 45px;
+    font-size: 12px;
+}

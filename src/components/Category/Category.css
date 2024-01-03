@@ -1,0 +1,9 @@
+.category {
+    text-align: center;
+    margin: 20px;
+}
+
+.category img {
+    margin-bottom: 10px;
+    max-width: 100%;
+}

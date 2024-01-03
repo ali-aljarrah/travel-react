@@ -1,0 +1,9 @@
+.explore-card {
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 315px;
+    width: 100%;
+}
